@@ -1,0 +1,22 @@
+d[cm]   EM, muscle (Friis+absorption)  EM, fat channel (empirical dB/         Ultrasound, soft tissue
+    1            5222.4 Mb/s @  3.12G            8967.4 Mb/s @  2.20G             278.4 Mb/s @ 40.00M
+    2            3032.8 Mb/s @  1.84G            8965.7 Mb/s @  2.20G             199.3 Mb/s @ 32.71M
+    3            2078.3 Mb/s @  1.46G            8963.1 Mb/s @  2.20G             136.4 Mb/s @ 21.87M
+    5             914.3 Mb/s @  1.30G            8952.9 Mb/s @  2.20G              79.4 Mb/s @ 13.68M
+    7             305.6 Mb/s @  1.23G            8928.7 Mb/s @  2.20G              51.9 Mb/s @  9.15M
+   10              42.1 Mb/s @  0.97G            8821.4 Mb/s @  2.20G              32.9 Mb/s @  5.72M
+   15               2.0 Mb/s @  0.73G            8017.5 Mb/s @  2.20G              19.2 Mb/s @  3.34M
+   20               0.2 Mb/s @100.00M            5908.3 Mb/s @  2.20G              13.0 Mb/s @  2.39M
+
+Sensitivity at d = 5 cm (capacity in Mb/s):
+  baseline                            914.3    8952.9      79.4
+  EM antenna eff -10 dB              3542.5    8952.9      79.4
+  EM antenna eff -30 dB                23.8    8952.9      79.4
+  EM antenna size 5 mm                 31.2    8952.9      79.4
+  EM antenna size 30 mm              1236.1    8952.9      79.4
+  Ptx 10 mW                          2132.0    8968.7      94.4
+  Ptx 0.1 mW                          197.1    8804.3      64.3
+  fat 0.7 dB/cm (phantom)             914.3    8966.1      79.4
+  US 1.0 dB/cm/MHz, -10 dB eff        914.3    8952.9      49.1
+  no SNR cap (ideal hardware)         916.1   14543.0      98.3
+

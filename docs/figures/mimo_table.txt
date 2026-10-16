@@ -1,0 +1,43 @@
+configuration                                   d  Nt x Nr strm  SNR_BF      SISO        BF      MIMO MIMO/BF
+muscle 1.3 GHz, 2 cm -> 4 cm                   1cm   4x9       4   40.3dB    927.8M    983.9M   3726.4M    3.79
+muscle 1.3 GHz, 2 cm -> 4 cm                   2cm   4x9       4   36.3dB    826.7M    966.3M   3349.1M    3.47
+muscle 1.3 GHz, 2 cm -> 4 cm                   3cm   4x9       4   32.9dB    691.5M    936.7M   2782.6M    2.97
+muscle 1.3 GHz, 2 cm -> 4 cm                   5cm   4x9       4   26.0dB    423.5M    815.7M   1579.4M    1.94
+muscle 1.3 GHz, 2 cm -> 4 cm                   8cm   4x9       3   15.9dB    126.8M    527.7M    568.0M    1.08
+
+muscle 2.45 GHz, 1 cm -> 4 cm                  1cm   4x25      4   38.0dB    858.9M    975.3M   3615.9M    3.71
+muscle 2.45 GHz, 1 cm -> 4 cm                  2cm   4x25      4   32.9dB    630.4M    937.2M   2940.9M    3.14
+muscle 2.45 GHz, 1 cm -> 4 cm                  3cm   4x25      4   27.9dB    410.5M    858.3M   2096.3M    2.44
+muscle 2.45 GHz, 1 cm -> 4 cm                  5cm   4x25      3   17.9dB    102.4M    587.3M    790.2M    1.35
+muscle 2.45 GHz, 1 cm -> 4 cm                  8cm   4x25      1    3.3dB      4.0M    163.9M    163.9M    1.00
+
+muscle 2.45 GHz, 2 cm -> 4 cm                  1cm   9x25      9   37.8dB    894.9M    974.6M   7473.6M    7.67
+muscle 2.45 GHz, 2 cm -> 4 cm                  2cm   9x25      9   33.4dB    651.4M    942.4M   5351.3M    5.68
+muscle 2.45 GHz, 2 cm -> 4 cm                  3cm   9x25      8   29.0dB    422.6M    879.1M   3311.7M    3.77
+muscle 2.45 GHz, 2 cm -> 4 cm                  5cm   9x25      4   19.9dB    105.7M    649.1M   1213.2M    1.87
+muscle 2.45 GHz, 2 cm -> 4 cm                  8cm   9x25      1    6.0dB      4.1M    231.4M    231.4M    1.00
+
+muscle 5.8 GHz, 1 cm -> 4 cm                   1cm   9x64      9   29.4dB    480.6M    885.9M   4513.6M    5.09
+muscle 5.8 GHz, 1 cm -> 4 cm                   2cm   9x64      6   17.0dB     61.8M    560.5M   1151.3M    2.05
+muscle 5.8 GHz, 1 cm -> 4 cm                   3cm   9x64      3    4.6dB      2.5M    195.2M    197.9M    1.01
+muscle 5.8 GHz, 1 cm -> 4 cm                   5cm   9x64      1  -20.4dB      0.0M      1.3M      1.3M    1.00
+muscle 5.8 GHz, 1 cm -> 4 cm                   8cm   9x64      1  -57.7dB      0.0M      0.0M      0.0M    1.00
+
+fat 2.45 GHz, 2 cm -> 4 cm                     1cm   1x4       1   41.7dB    962.2M    987.3M    987.3M    1.00
+fat 2.45 GHz, 2 cm -> 4 cm                     2cm   1x4       1   39.0dB    938.2M    979.7M    979.7M    1.00
+fat 2.45 GHz, 2 cm -> 4 cm                     3cm   1x4       1   36.2dB    900.1M    965.9M    965.9M    1.00
+fat 2.45 GHz, 2 cm -> 4 cm                     5cm   1x4       1   31.3dB    798.6M    916.9M    916.9M    1.00
+fat 2.45 GHz, 2 cm -> 4 cm                     8cm   1x4       1   25.4dB    634.5M    802.2M    802.2M    1.00
+
+fat 5.8 GHz, 2 cm -> 4 cm                      1cm   4x16      4   40.4dB    952.4M    984.1M   3778.9M    3.84
+fat 5.8 GHz, 2 cm -> 4 cm                      2cm   4x16      4   37.0dB    822.2M    970.5M   3416.1M    3.52
+fat 5.8 GHz, 2 cm -> 4 cm                      3cm   4x16      4   33.9dB    670.1M    947.5M   2887.5M    3.05
+fat 5.8 GHz, 2 cm -> 4 cm                      5cm   4x16      4   27.5dB    401.5M    849.1M   1743.3M    2.05
+fat 5.8 GHz, 2 cm -> 4 cm                      8cm   4x16      3   18.2dB    124.2M    596.5M    699.7M    1.17
+
+ultrasound 5 MHz, 2 mm -> 1 cm (BW 3 MHz)      1cm  36x36      6   65.9dB     28.7M     29.9M    142.6M    4.77
+ultrasound 5 MHz, 2 mm -> 1 cm (BW 3 MHz)      2cm  36x36      4   56.3dB     23.9M     29.9M     85.5M    2.86
+ultrasound 5 MHz, 2 mm -> 1 cm (BW 3 MHz)      3cm  36x36      3   49.0dB     17.7M     29.8M     64.6M    2.16
+ultrasound 5 MHz, 2 mm -> 1 cm (BW 3 MHz)      5cm  36x36      3   37.1dB      6.9M     29.1M     34.6M    1.19
+ultrasound 5 MHz, 2 mm -> 1 cm (BW 3 MHz)      8cm  36x36      1   21.8dB      0.5M     21.1M     21.1M    1.00
+
