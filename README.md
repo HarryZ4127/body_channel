@@ -12,6 +12,8 @@ demonstrator built from commercial SDRs plus custom PCBs.
 | [docs/02_critique.md](docs/02_critique.md) | **critique, likely reviewer objections, rebuttals and suggestions** |
 | [docs/03_research_plan.md](docs/03_research_plan.md) | hypotheses, work packages, methods, metrics, risks, timeline |
 | [docs/04_hardware_and_demo.md](docs/04_hardware_and_demo.md) | demo architecture, equipment tiers, custom PCB specs, phantoms |
+| [docs/research/phase1_scoping.md](docs/research/phase1_scoping.md) | ARS deep-research Phase 1: research question, method, critic checkpoint |
+| [HANDOFF.md](HANDOFF.md) | **current state and how to resume in another session** |
 
 ## Main findings from the screening models
 
